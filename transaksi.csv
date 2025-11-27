@@ -1,0 +1,11 @@
+tanggal,waktu,jenis,kode_item,nama_item,jumlah,harga,total,kasir
+2025-11-26,21:33:51,Minuman,1,Espresso,4,15000,60000,admin
+2025-11-26,21:35:37,Minuman,5,Caramel Macchiato,2,28000,56000,admin
+2025-11-26,21:36:11,Minuman,7,Flat White,6,24000,144000,admin
+2025-11-27,15:42:54,Minuman,2,Americano,2,18000,36000,admin jefri
+2025-11-27,15:44:56,Minuman,2,Americano,2,18000,36000,admin jefri
+2025-11-27,15:46:35,Minuman,3,Cappuccino,5,22000,110000,owner rafli
+2025-11-27,15:47:10,Minuman,5,Caramel Macchiato,4,28000,112000,owner rafli
+2025-11-27,15:50:36,Minuman,5,Caramel Macchiato,5,28000,140000,admin jefri
+2025-11-27,15:54:03,Biji Kopi,1,Arabica Gayo,30.0,120000,3600000,admin jefri
+2025-11-27,16:04:03,Minuman,2,Americano,2,18000,36000,admin jefri
